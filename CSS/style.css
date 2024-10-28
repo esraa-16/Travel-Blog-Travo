@@ -449,7 +449,7 @@ li {
   font-size: 18px;
 }
 @media screen and (max-width: 991px) {
-  .blog-title .p-2 {
+  .blog-title {
     width: 90%;
 }}
 .blog-title span {
