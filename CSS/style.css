@@ -450,7 +450,7 @@ li {
 }
 @media screen and (max-width: 991px) {
   .blog-title .p-2 {
-    width: 80%;
+    width: 90%;
 }}
 .blog-title span {
   color: #f3ca52;
