@@ -448,6 +448,10 @@ li {
   text-align: center;
   font-size: 18px;
 }
+@media screen and (max-width: 991px) {
+  .blog-title .p-2 {
+    width: 80%;
+}}
 .blog-title span {
   color: #f3ca52;
 }
