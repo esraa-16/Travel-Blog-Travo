@@ -455,7 +455,7 @@ li {
 @media (min-width: 320px) and (max-width: 480px) {
    .blog-title {
      width: 100%
-padding: 0 24px;   }
+   }
 }
 .blog-title span {
   color: #f3ca52;
