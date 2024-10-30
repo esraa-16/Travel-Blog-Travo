@@ -423,6 +423,10 @@ li {
   margin: auto;
   margin-bottom: 16px;
 }
+@media (min-width: 320px) and (max-width: 480px) {
+.post-cont p {
+  max-width: 85%;}
+}
 .post-cont h2 {
   color: var(--title-color);
 }
